@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Group Animation Episode 3
+title: Group Animation Episode 2
 header-img: img/in-post/2020-10-07/header.jpg
 header-style: text
 catalog: true

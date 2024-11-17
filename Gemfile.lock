@@ -91,6 +91,8 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
+    wdm (0.2.0)
+    webrick (1.9.0)
 
 PLATFORMS
   x64-mingw-ucrt
@@ -103,6 +105,8 @@ DEPENDENCIES
   kramdown (= 2.1.0)
   ostruct
   rexml
+  wdm (>= 0.1.0)
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.5.22
