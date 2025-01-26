@@ -1,6 +1,6 @@
 # Site settings
 title: taaaara
-SEOTitle: Jekyll theme Gungnir
+SEOTitle: taaaara
 description: taaaara's Blog
 keyword: "jekyll, theme, blog, blog theme"
 url: "https://jekyll-theme-gungnir.vercel.app"      # your host, for absolute URL
@@ -109,9 +109,9 @@ menus:
       - title: Me
         font: fas fa-user-astronaut
         url: /about/
-      - title: Theme
-        font: fas fa-meteor
-        url: /theme/
+      # - title: Theme
+      #   font: fas fa-meteor
+      #   url: /theme/
   - title: Archive
     font: fas fa-archive
     url: /archive/
@@ -125,7 +125,7 @@ comment:
   provider: gitalk # false (default), "disqus", "gitalk", "valine"
 
   # Disqus settings
-  disqus_username: renovamen
+  disqus_username: taaaara
 
   # Gitalk settings
   # https://github.com/gitalk/gitalk
@@ -135,7 +135,7 @@ comment:
     repo: gitalk-comments
     owner: This-is-an-Apple
     admin:
-      - Renovamen
+      - taaaaara
       - This-is-an-Apple
 
   # Valine settings
